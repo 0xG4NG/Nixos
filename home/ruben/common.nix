@@ -6,9 +6,11 @@
 
   programs.git = {
     enable = true;
-    settings.user.name = "Rubén";
-    # settings.user.email = "tu@email";
+    settings.user.name = "0xG4NG";
+    settings.user.email = "0xG4NG@ruben@g4ng.es";
   };
+  
+  programs.gh.enable = true;
 
   programs.zsh = {
     enable = true;
